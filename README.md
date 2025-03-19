@@ -4,16 +4,15 @@
 
 ## 🌟 About Me
 
-- 💻 **Developer & Tech Enthusiast**
+- 💻 **Web Developer & Tech Enthusiast**
 - 🎨 Love **UI/UX & animations**
-- 🎶 **Passionate about music apps**
-- 🤖 **Working on Astro AI!**
+- 🎶 **Working on Groove Music!**
+- 🌐 **Skilled in HTML & CSS**
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ## 📊 GitHub Stats
@@ -24,14 +23,11 @@
 
 ## 🚀 My Projects
 
-- 🎵 **Music App Website** - [Live Demo](#)
-- 🌍 **ISO Social Media** - [Check it Out](#)
-- 🤖 **Astro AI** - [Under Development](#)
-- 🏫 **School Website** - [Award-Winning Project](#)
+- 🎵 **Groove Music** - [Live Demo](#)
 
 ## 📫 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 ---
