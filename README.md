@@ -14,13 +14,8 @@
 ## 🌟 About Me
 
 - 🎨 Love **UI/UX & animations**
-- 🎶 **Working on Groove Music!**
 - 🌐 **Skilled in HTML & CSS**
 
 ## 🚀 My Projects
 
 - 🎵 **Groove Music** - [Live Demo](#)
-
----
-
-_"Code, Create, Conquer!"_ 🔥
