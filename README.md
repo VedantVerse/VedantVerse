@@ -7,9 +7,12 @@
 - 🎨 Love **UI/UX & animations**
 - 🌐 **Skilled in HTML & CSS**
 
-- <h2> 🚀 &nbsp;Some Tools I Have Learned</h2>
+## 🧰 Some Tools I Have Learnt and Use!
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
 ## 🚀 My Projects
