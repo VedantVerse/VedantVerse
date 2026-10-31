@@ -9,9 +9,7 @@
 ---
 
 ### About me (◕‿◕)
-- Building Jarvis, a voice-controlled assistant in Python
-- Currently learning: `your topic 1`, `your topic 2`
-- Goal: `what you want to build or become`
+- Currently learning: `python`, `more about computers`
 
 ### Tech stack ٩(◕‿◕)۶
 <p>
