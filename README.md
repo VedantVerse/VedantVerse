@@ -1,18 +1,17 @@
-# 🚀 Welcome to My GitHub Profile! 
+<h1 align="center">Hey, I'm Vedant 👋</h1>
+<p align="center"><i>Building things that talk back.</i></p>
 
+### 🚀 What I'm working on
+- 🎙️ **Jarvis**: a voice-controlled assistant in Python
+- 📚 Currently learning: <your topics>
 
-![Gradient Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vedant%20&fontSize=40&fontAlignY=35)
+### 🛠️ Tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌟 About Me
-- 🎨 Love **UI/UX & animations**
-- 🌐 **Skilled in HTML & CSS**
+### 📊 GitHub stats
+![Stats](https://github-readme-stats.vercel.app/api?username=VedantVerse&show_icons=true&theme=tokyonight)
 
-## 🧰 Some Tools I Have Learnt and Use!
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
-
-## 🚀 My Projects
+### 📫 Reach me
+[LinkedIn](your-link) · [Email](mailto:your-email)
