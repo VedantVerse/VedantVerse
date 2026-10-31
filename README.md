@@ -8,10 +8,10 @@
 
 ---
 
-### ⚡ About me
-- 🎙️ Building **[Jarvis3](https://github.com/VedantVerse/Jarvis3)**, a voice-controlled assistant in Python
-- 🌱 Currently learning: `your topic 1`, `your topic 2`
-- 🎯 Goal: `what you want to build or become`
+### - About me
+-  Building **[Jarvis3](https://github.com/VedantVerse/Jarvis3)**, a voice-controlled assistant in Python
+-  Currently learning: `your topic 1`, `your topic 2`
+-  Goal: `what you want to build or become`
 
 ### 🛠️ Tech stack
 <p>
