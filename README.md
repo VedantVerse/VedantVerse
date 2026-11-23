@@ -12,7 +12,7 @@
 
 Hi, I'm **Vedant**, a young self-taught software developer who is learning by building real things.
 
-- Currently learning: `Python`, `more about computers`
+- Currently learning: `Python`,`AI/ML`, `more about computers`
 - Always experimenting, breaking things, and fixing them again
 
 > Still learning, always shipping.
