@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:6E7681&height=200&section=header&text=Vedant&fontSize=50&fontColor=ffffanimation=twinkling" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:6E7681&height=200&section=header&text=Vedant&fontSize=50&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=650&lines=AI%2FML+Developer+in+the+Making;Training+My+Brain+Like+a+Neural+Network;Turning+Data+Into+Intelligence;Exploring+the+World+of+Artificial+Intelligence;Building+Tomorrow%2C+One+Model+at+a+Time" alt="Typing SVG" />
